@@ -1,6 +1,6 @@
 # Full-Stack Task Manager — .NET 8 + React + TypeScript + Docker
 
-[![CI/CD](https://github.com/miteshdekate93/fullstack-dotnet-react/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/miteshdekate93/fullstack-dotnet-react/actions/workflows/ci-cd.yml)
+[![CI/CD](https://github.com/miteshdekate93/taskflow/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/miteshdekate93/taskflow/actions/workflows/ci-cd.yml)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 [![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
@@ -89,7 +89,7 @@ A production-ready full-stack Task Manager demonstrating modern software enginee
 > Prerequisites: [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 ```bash
-git clone https://github.com/miteshdekate93/fullstack-dotnet-react.git
+git clone https://github.com/miteshdekate93/taskflow.git
 cd fullstack-dotnet-react
 docker compose up --build
 ```
