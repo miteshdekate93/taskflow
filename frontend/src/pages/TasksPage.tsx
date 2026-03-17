@@ -106,6 +106,7 @@ export default function TasksPage() {
               task={task}
               onToggle={(id, payload) => updateMutation.mutate({ id, payload })}
               onDelete={(id) => deleteMutation.mutate(id)}
+              onUpdate={(id, payload) => updateMutation.mutate({ id, payload })}
             />
           ))}
         </div>
